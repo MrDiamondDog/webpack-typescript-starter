@@ -25,3 +25,7 @@ Available imports are:
 ## Scripts
 
 -   `dev` - Runs webpack with nodemon to see live changes
+
+## Linting
+
+ESLint is bundled with this project, to remove it, remove the `.vscode` folder and `.eslintrc`.
