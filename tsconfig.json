@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist/",
+        "rootDir": "src",
+        "noImplicitAny": true,
+        "module": "ES2022",
+        "target": "ES2022",
+        "sourceMap": true,
+        "jsx": "react",
+        "allowJs": true,
+        "moduleResolution": "node",
+        "paths": {
+            "@util/*": ["./src/util/*"],
+            "@type/*": ["./src/type/*"]
+        }
+    },
+    "include": ["src"]
+}
