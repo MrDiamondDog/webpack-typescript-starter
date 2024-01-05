@@ -1,6 +1,6 @@
 {
     "compilerOptions": {
-        "outDir": "./dist/",
+        "outDir": "public/dist",
         "rootDir": "src",
         "noImplicitAny": true,
         "module": "ES2022",
